@@ -17,6 +17,6 @@ Spring boot, Hibernate, Mysql, Swagger e java 17.
 
 ## Testando o projeto:
 <li>Todos os Endpoints foram documentados utilizando o Swagger. </li>
-<li>Basta acessar o endereço: http://localhost:8080/swagger-ui/index.html#/ para testar.</li>
+<li>Basta acessar o endereço: <a href="http://localhost:8080/swagger-ui/index.html#/">http://localhost:8080/swagger-ui/index.html#/</a> para testar.</li>
 
 ## Desenvolvido por: Leonardo Pavani
