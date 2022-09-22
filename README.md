@@ -8,15 +8,15 @@ Este projeto é uma API REST, onde podemos Cadastrar, Alterar, Listar, Buscar e 
 Spring boot, Hibernate, Mysql, Swagger e java 17.
 
 ## Baixando o projeto:
-Baixar o ZIP do projeto.
-Descompactar a pasta baixada.
+<li>Baixar o ZIP do projeto.</li>
+<li>Descompactar a pasta baixada.</li>
 
 ## Executando o projeto:
-Importar o projeto no eclipse e esperar até que todas as dependências sejam incluídas.
-Executar o projeto.
+<li>Importar o projeto no eclipse e esperar até que todas as dependências sejam incluídas.</li>
+<li>Executar o projeto.</li>
 
 ## Testando o projeto:
-Todos os Endpoints foram documentados utilizando o Swagger. 
-Basta acessar o endereço: http://localhost:8080/swagger-ui/index.html#/ para testar.
+<li>Todos os Endpoints foram documentados utilizando o Swagger. </li>
+<li>Basta acessar o endereço: http://localhost:8080/swagger-ui/index.html#/ para testar.</li>
 
 ## Desenvolvido por: Leonardo Pavani
