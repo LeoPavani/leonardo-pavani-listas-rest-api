@@ -20,8 +20,3 @@ Todos os Endpoints foram documentados utilizando o Swagger.
 Basta acessar o endereço: http://localhost:8080/swagger-ui/index.html#/ para testar.
 
 ##Desenvolvido por: Leonardo Pavani
-
-
-
-
-
